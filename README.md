@@ -4,4 +4,4 @@ DESC
 
 ## Canonical source
 
-[https://git.knowbl.co/dev/leaner-report](https://git.knowbl.co/dev/leaner-report)
+The canonical source for the Leaner Report is [https://git.knowbl.co/dev/leaner-report](https://git.knowbl.co/dev/leaner-report)
